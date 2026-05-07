@@ -1,0 +1,10 @@
+[
+    {
+        "tab": "report",
+        "template": "example/templates/template.docx",
+        "data": [
+            {"tag": "info", "json": "example/data/data_1.json"},
+            {"tag": "limits", "file": "example/data/data_1.xlsx"}
+        ]
+    }
+]

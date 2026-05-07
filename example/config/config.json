@@ -1,0 +1,15 @@
+[
+    {
+        "tab": "test_1",
+        "template": "C:/Users/Merz/rust_projects/report_generator/example/templates/template.xlsx",
+        "data": [
+            {"tag": "limits", "file": "C:/Users/Merz/rust_projects/report_generator/example/data/data_1.xlsx"},
+            {"tag": "credits", "file": "C:/Users/Merz/rust_projects/report_generator/example/data/data_2.xlsx"},
+            {"tag": "data_map", "json": "C:/Users/Merz/rust_projects/report_generator/example/data/data_1.json"}
+        ]
+    },
+    {
+        "tab": "*",
+        "template": "C:/Users/Merz/rust_projects/report_generator/example/templates/template_1.xlsx"
+    }
+]

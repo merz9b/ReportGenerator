@@ -1,0 +1,15 @@
+[
+    {
+        "tab": "test_1",
+        "template": "templates/template.xlsx",
+        "data": [
+            {"tag": "limits", "file": "data/data_1.xlsx"},
+            {"tag": "credits", "file": "data/data_2.xlsx"},
+            {"tag": "data_map", "json": "data/data_1.json"}
+        ]
+    },
+    {
+        "tab": "*",
+        "template": "templates/template_1.xlsx"
+    }
+]
